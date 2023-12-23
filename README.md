@@ -1,3 +1,9 @@
+####################################
+# WannaCry 2.0 Supreme Infiltration
+# Author: 1cYinfinity
+# License: MIT License
+####################################
+
 🔥 WannaCry 2.0 Supreme Infiltration by 1cYinfinity 🔥
 
 🌌 Unleash chaos with the most powerful ransomware ever created!
