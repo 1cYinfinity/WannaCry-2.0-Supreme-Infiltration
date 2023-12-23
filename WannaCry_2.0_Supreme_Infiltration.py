@@ -1,4 +1,9 @@
 # WannaCry 2.0 Supreme Infiltration
+####################################
+# WannaCry 2.0 Supreme Infiltration
+# Author: 1cYinfinity
+# License: MIT License
+####################################
 import os
 import random
 import string
